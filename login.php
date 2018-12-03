@@ -12,10 +12,6 @@ if (   empty($username)===true || empty($password)===true)
 	$errors[] = 'sorry we can not find your username have you logged in';
 }
 
-
-
-
-
 }
 
 	
